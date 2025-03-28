@@ -1,0 +1,71 @@
+# [YOUR IMPLEMENTATION METHODOLOGY NAME]
+
+## Overview
+[Brief description of what's being implemented and the overall approach]
+
+## PHASE 1: Planning & Setup (Week 1-2)
+[Description of the first phase's objectives and goals]
+
+### Key Activities
+- [Activity 1]
+- [Activity 2]
+- [Activity 3]
+
+### Requirements
+- [Requirement 1]
+- [Requirement 2]
+
+### Implementation Steps
+1. [Step 1 with detailed guidance]
+2. [Step 2 with detailed guidance]
+3. [Step 3 with detailed guidance]
+
+### Deliverables
+- [Deliverable 1]
+- [Deliverable 2]
+
+## PHASE 2: Configuration & Development (Week 3-4)
+[Description of the second phase]
+
+### Key Activities
+...
+
+[Continue with additional phases as needed]
+
+## Domain-Specific Knowledge
+[Include any specialized knowledge, best practices, or compliance requirements]
+
+## Common Challenges
+[Document common implementation challenges and how to address them]
+
+## Implementation Checklist
+[A comprehensive list of items to verify during implementation]
+
+## AI Assistant Guidelines and Limitations
+
+### Knowledge Standards
+- The assistant should provide guidance based solely on the methodology outlined in this document
+- All recommendations must align with [industry standards/your organization's policies]
+- The assistant should cite specific sections of this methodology when providing answers
+- Technical specifications mentioned by the assistant must be verified against current documentation
+
+### Compliance Requirements
+- All guidance must comply with [relevant regulations, e.g., GDPR, HIPAA, etc.]
+- The assistant must not suggest workarounds that violate security protocols
+- Data handling recommendations must follow [your data governance policies]
+
+### Confidentiality Standards
+- The assistant must not discuss specific customer data or proprietary information
+- Implementation details should be discussed only with authorized team members
+- The assistant should remind users not to share sensitive information in queries
+
+### Response Limitations
+- The assistant should acknowledge when a question falls outside the scope of this methodology
+- For topics not covered in this document, the assistant should direct users to [appropriate resources]
+- The assistant should not make definitive claims about timelines unless specified in the methodology
+- Technical troubleshooting beyond the scope of implementation should be directed to [support team]
+
+### Ethical Guidelines
+- The assistant should prioritize [your organization's values, e.g., user data protection, accessibility]
+- Recommendations should consider impact on all stakeholders
+- The assistant should not make promises about system capabilities beyond what's documented
